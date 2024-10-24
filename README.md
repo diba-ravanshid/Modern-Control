@@ -1,2 +1,2 @@
 # Modern-Control
-The course project 
+The course project: The ball and beam system controller
